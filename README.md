@@ -1,6 +1,6 @@
 # File Integrity Monitor
 
-A simple **PowerShell ISE-based file integrity monitoring (FIM)** tool.  
+A **PowerShell ISE-based file integrity monitoring (FIM)** tool.  
 This script lets you generate a baseline of file hashes for a target folder and then continuously monitor that folder for **file changes, creations, or deletions**.  
 
 ## Features
